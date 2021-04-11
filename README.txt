@@ -13,5 +13,7 @@
 		      userEmailId(varchar 255)
 		      userAddress(varchar 255)
 
-5.Run command inside project folder.
+5.Open project with your editor.
+
+6.Run command inside project folder.
 			php -S localhost:8000

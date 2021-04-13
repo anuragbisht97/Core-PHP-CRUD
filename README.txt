@@ -9,7 +9,7 @@
 4.Create Fields.
 	Fields name : userId(auto increment, primary key)
 		      userName(varchar 255)
-		      userPhoneNumber(varchar 255)
+		      userPhoneNumber(varchar 10)
 		      userEmailId(varchar 255)
 		      userAddress(varchar 255)
 
